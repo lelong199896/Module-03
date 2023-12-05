@@ -1,0 +1,27 @@
+
+ body {
+          font-family: 'Courier New', Courier, monospace;
+            margin: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        h5 {
+            margin-bottom: 5px;
+            cursor: pointer;
+            color: #007bff;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: left;
+        }
+
+        .chapter {
+            margin-bottom: 20px;
+            display: none; /* Ẩn nội dung mặc định */
+        }
